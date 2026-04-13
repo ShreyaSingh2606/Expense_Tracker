@@ -24,3 +24,11 @@ A clean and simple Expense Tracker built using React that helps you manage your 
 ---
 
 ## 📂 Project Structure
+expense_manager/
+│── expense/
+│ ├── index.jsx
+│ ├── index.css
+│ ├── index.html
+│── public/
+│── package.json
+│── vite.config.js
